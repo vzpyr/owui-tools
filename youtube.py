@@ -1,14 +1,3 @@
-"""
-title: YouTube
-author: vzpyr
-author_url: https://github.com/vzpyr
-git_url: https://github.com/vzpyr/owui-tools
-description: Retrieves YouTube video details and transcripts with optional translation
-requirements: youtube-transcript-api>=1.2.0, yt-dlp>=2024.4.9
-version: 0.1.3
-license: MIT
-"""
-
 import re
 from typing import Any, Callable
 from youtube_transcript_api import YouTubeTranscriptApi
